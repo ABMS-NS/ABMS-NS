@@ -9,7 +9,7 @@
 
 🎯 Sempre buscando aprender e me aprimorar.
 
-💡 Atualmente testando novas tecnologias e aprendendo um pouco sobre tudo para decidir minha área de atuação. 
+💡 Atualmente testando novas tecnologias e aberto a decidir minha área de atuação principal. 
 
 📚 Estudando engenharia da computação na Universidade Federal de Alagoas.
 
