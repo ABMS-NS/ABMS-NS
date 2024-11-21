@@ -5,9 +5,7 @@
 
 ## 🚀 Sobre mim
 
-💻 Desenvolvedor apaixonado por tecnologia e suas possibilidades.  
-
-🎯 Sempre buscando aprender e me aprimorar.
+💻 Programo em C, Haskell e Python
 
 💡 Atualmente testando novas tecnologias e aberto a decidir minha área de atuação principal. 
 
