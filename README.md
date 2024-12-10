@@ -5,7 +5,7 @@
 
 ## 🚀 Sobre mim
 
-💻 Programo em C, Haskell e Python
+💻 Programo em C, Haskell, Python e Java
 
 💡 Atualmente testando novas tecnologias e aberto a decidir minha área de atuação principal. 
 
