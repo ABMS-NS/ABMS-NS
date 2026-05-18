@@ -9,7 +9,7 @@ Atualmente testando novas tecnologias e aberto a decidir minha área de atuaçã
 
 Estudando engenharia da computação na Universidade Federal de Alagoas.
 
-## ⌨️ O que eu faço?
+## O que eu faço?
 
 - Utilizo essa conta geralmente para meus trabalhos da faculdade, porém alguns projetos pessoais também são postados aqui.
 
