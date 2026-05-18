@@ -7,6 +7,8 @@ Programo em C, Python, Java e estou aprendendo Javascript
 
 Atualmente testando novas tecnologias e aberto a decidir minha área de atuação principal. 
 
+Atuando atualmente como pesquisador do laboratório TIPS dentro da UFAL.
+
 Estudando engenharia da computação na Universidade Federal de Alagoas.
 
 ## O que eu faço?
